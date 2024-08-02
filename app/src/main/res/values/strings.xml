@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Samojlov_AV_Homework_Module_10_number_3_2</string>
+    <string name="exit">Exit</string>
+    <string name="toolbar_title">mod. 9 № 3-2</string>
+    <string name="textVieWTV"></string>
+    <string name="trafficLawsTVBefore">Информация</string>
+    <string name="trafficLawsTVAfter">Правила дорожного движения</string>
+    <string name="toast_exit">Приложение закрыто</string>
+    <string name="trafficLawsOut">Правила\n
+дорожного движения Российской Федерации\n\n
+    1. Общие положения\n
+    2. Общие обязанности водителей\n
+    3. Применение специальных сигналов\n
+    4. Обязанности пешеходов\n
+    5. Обязанности пассажиров\n
+    ...\n
+    и еще 21 п. правил</string>
+</resources>
