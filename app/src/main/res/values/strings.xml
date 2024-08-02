@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Samojlov_AV_Homework_Module_10_number_3_2</string>
     <string name="exit">Exit</string>
+    <string name="toolbar_title">mod. 10 № 3-2</string>
     <string name="textVieWTV"></string>
     <string name="trafficLawsTVBefore">Информация</string>
     <string name="trafficLawsTVAfter">Правила дорожного движения</string>
